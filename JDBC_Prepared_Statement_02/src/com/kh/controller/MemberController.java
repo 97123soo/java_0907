@@ -104,5 +104,5 @@ public class MemberController {
 			new MemberMenu().displayFail("회원 탈퇴에 실패하였습니다.");
 		}
 	}
-	//daodd
+
 }
